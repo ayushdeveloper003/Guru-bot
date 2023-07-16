@@ -16,8 +16,6 @@ let m2 = `
 ▢ .blocklist
 ▢ .info
 ▢ .owner
-▢ .donate
-▢ .gpguru
 ▢ .listprem
 ▢ .help
 ▢ .audios
