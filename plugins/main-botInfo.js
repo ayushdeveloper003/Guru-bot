@@ -55,16 +55,16 @@ let infobt = `
 ▢ *${chats.length - groupsIn.length}* private chats
 ▢ *${chats.length}* Total Chats
 
-*≡ OWNER*
-  *GURU*
+*≡ Developer*
+  *AYUSH*
 ▢ Instagram :
-  • https://instagram.com/asli_guru69
+  • https://instagram.com/ayush860121
 ▢ GitHub :
-  • https://github.com/Guru322
+  • https://github.com/ayushdeveloper001
 ▢ Telegram : 
-  • t.me/i_want_to_be_isekaied (GURU) 
+  • t.me/ayushdeveloper001
 ▢ YouTube : 
-  • https://youtube.com/@Asliguru
+  • https://youtube.com/@AyushAlways4Himself
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
