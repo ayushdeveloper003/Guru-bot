@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "whatsapp-bot (-BOT)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Ayushdeveloper001/GURU-BOT",
+  "repository": "https://github.com/Ayushdeveloper001/-BOT",
   "stack": "container",
   "env": {
     "OPENAI_API_KEY": {

@@ -1,4 +1,4 @@
-//GURU-BOT
+//AYUSH-BOT
 /*import fetch from 'node-fetch';
 
 let handler = async (m, { conn, text }) => {
@@ -21,7 +21,7 @@ let handler = async (m, { conn, text }) => {
     let data = json.data[0];
 
     // Add custom property.
-    data.creator = 'GURU';
+    data.creator = 'AYUSH';
 
     let response = '';
 
@@ -90,7 +90,7 @@ let handler = async (m, { conn, text }) => {
     console.log('JSON response:', json);
 
     
-    json.creator = 'GURU';
+    json.creator = 'AYUSH';
 
     let milf = '';
     for (let prop in json) {
