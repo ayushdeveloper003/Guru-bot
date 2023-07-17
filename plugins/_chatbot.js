@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
-const BRAINSHOP_BID = '176001';
-const BRAINSHOP_KEY = 'M4fzqfe99b3THOYi';
+const BRAINSHOP_BID = '175093';
+const BRAINSHOP_KEY = '0ygqXdOtPPAip1WF';
 
 export async function before(m, { conn }) {
   if (m.isBaileys && m.fromMe) {
