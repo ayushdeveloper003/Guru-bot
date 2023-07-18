@@ -4,7 +4,8 @@ import os from 'os';
 
 let limit = 500;
 let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) => {
-  if (!args || !args[0]) throw `✳️ Example:\n${usedPrefix + command} https://youtu.be/YzkTFFwxtXI`;
+  if (!args || !args[0]) throw `✳️ Example:\n${usedPrefix + command} https://youtu.be
+  `;
   if (!args[0].match(/youtu/gi)) throw `❎ Verify that the YouTube link`;
 
   let chat = global.db.data.chats[m.chat];
