@@ -46,9 +46,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Ayush-bot'
+global.botname = 'Jessica-bot'
 global.premium = 'true'
-global.packname = 'AYUSH┃ᴮᴼᵀ' 
+global.packname = 'Jessica┃ᴮᴼᵀ' 
 global.author = 'Ayush XD' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/ayush860121\n' 
 global.dygp = 'https://chat.whatsapp.com/'

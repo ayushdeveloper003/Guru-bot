@@ -13,7 +13,7 @@ lkr = "*Get ready for the ride, here are your ticket options:*\n\n" +
 "🤖 *" + usedPrefix + "botmenu* - The Bot's secret control panel. What's your command, oh great one?\n\n" +
 "👑 *" + usedPrefix + "ownermenu* - The sacred scroll only for the chosen one. Yep, that's you, Boss!\n\n" +
 "🧑‍🤝‍🧑 *" + usedPrefix + "groupmenu* - Group shenanigans central! Unite, chat, conquer!\n\n" +
-"📥 *" + usedPrefix + "dlmenu* - 'DL' stands for 'Delicious Loot'. Come grab your goodies!\n\n" +
+"📥 *" + usedPrefix + "dlmenu* - 'DL' stands for 'Download'. Come down your songs!\n\n" +
 "🎉 *" + usedPrefix + "funmenu* - The bot's party hat. Games, jokes and instant ROFLs. Let's get this party started!\n\n" +
 "💰 *" + usedPrefix + "economymenu* - Bling bling! Your personal vault of virtual economy. Spend or save? Choose wisely!\n\n" +
 "🎮 *" + usedPrefix + "gamemenu* - Enter the gaming arena. May the odds be ever in your favor!\n\n" +
@@ -37,14 +37,12 @@ break;
    ⎪⌲👑 _${usedPrefix}uptime_
    ⎪⌲👑 _${usedPrefix}bot_
    ⎪⌲👑 _${usedPrefix}owner_
-   ⎪⌲👑 _${usedPrefix}script_
    ⎪⌲👑 _${usedPrefix}runtime_
    ⎪⌲👑 _${usedPrefix}infobot_
-   ⎪⌲👑 _${usedPrefix}donate_
    ⎪⌲👑 _${usedPrefix}groups_
    ⎪⌲👑 _${usedPrefix}blocklist_
    ⎪⌲👑 _${usedPrefix}listprem_
-   ⎪⌲👑    AYUSH MD
+   ⎪⌲👑    JESSICA MD
    ┗━━━ʕ•㉨•ʔ━━━┛`; // Your bot menu message here
           break;
         case 'ownermenu':
