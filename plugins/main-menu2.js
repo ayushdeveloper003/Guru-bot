@@ -223,7 +223,7 @@ Bot has more than 300 commands and i am lazy to write all
     let pp = './Guru.jpg' 
     conn.sendButton(m.chat, m2, '▢ ᴳᵁᴿᵁ  ┃ ᴮᴼᵀ\n▢ Follow on Instagram\nhttps://www.instagram.com/ayush860121\n', pp, [
       ['⏍ Info', `${usedPrefix}botinfo`],
-      ['⌬ Groups', `${usedPrefix}gpguru`]
+      ['⌬ Groups', `${usedPrefix}support`]
     ],m, rpyt)
    
 }
