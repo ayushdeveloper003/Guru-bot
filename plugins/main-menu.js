@@ -37,7 +37,7 @@ let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-🚀 *_Buckle up ${name}, ${greeting}! We're going on an adventure!_* 🚀
+🚀 *_Buckle up ${name}, ${greeting}! We're going on an adventure, I am Jessica here to assist you!_* 🚀
 
 📜 *_Quote of the day: ${quote}_* 📜
 
@@ -74,7 +74,7 @@ let str = `
 }
 handler.help = ['main']
 handler.tags = ['group']
-handler.command = ['menu', 'help','h','command'] 
+handler.command = ['menu', 'help','ayush','command'] 
 
 export default handler
 function clockString(ms) {
