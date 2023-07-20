@@ -21,7 +21,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
   let sn = createHash('md5').update(m.sender).digest('hex')
   m.reply(`
 ┌─「 *REGISTERED* 」─
-▢ *NUMBER:* ${name}
+▢ *Name:* ${name}
 ▢ *AGE* : ${age} years
 ▢ *SERIEL NUMBER* :
 ${sn}
