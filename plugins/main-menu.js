@@ -44,7 +44,6 @@ let str = `
 ┏━💼 _User Info:_ 💼━┓
 ┃ 👾  *User Tag:* ${taguser} 
 ┃ 🎩  *Name:* ${name} 
-┃ 🦸  *Master Mind:* ${author} 
 ┃ 💎  *Diamonds:* ${diamond} 
 ┃ 🏆  *Rank:* ${role}
 ┃ 🎮  *XP:* ${exp} 
@@ -64,6 +63,7 @@ let str = `
 ┗━━━━━━━━━━━━━┛
 
 💡 *_Remember, when in doubt, use ${usedPrefix}list. It's like my magic spell book!_* 💡
+💡 *_For updates join our official group by typing ${usedPrefix}support and get a chance to become a mod of the bot!_* 💡
 `
 
 
