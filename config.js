@@ -55,7 +55,7 @@ global.dygp = 'https://chat.whatsapp.com/'
 global.fgsc = 'https://github.com/ayushdeveloper001' 
 global.fgyt = 'https://youtube.com/@AyushAlways4Himself'
 global.fgpyp = 'https://youtube.com/@AyushAlways4himself'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fglog = 'https://i.ibb.co/Ms4Qsvr/IMG-20230719-WA0090.jpg' 
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
