@@ -39,7 +39,7 @@ break;
    ⎪⌲👑 _${usedPrefix}owner_
    ⎪⌲👑 _${usedPrefix}runtime_
    ⎪⌲👑 _${usedPrefix}infobot_
-   ⎪⌲👑 _${usedPrefix}support_
+   ⎪⌲👑 _${usedPrefix}maingroup_
    ⎪⌲👑 _${usedPrefix}blocklist_
    ⎪⌲👑 _${usedPrefix}listprem_
    ⎪⌲👑    JESSICA MD
