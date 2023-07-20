@@ -683,8 +683,8 @@ export async function participantsUpdate({ id, participants, action }) {
                   ppgp = await this.profilePictureUrl(id, 'image');
                 } catch (error) {
                   console.error(`Error retrieving profile picture: ${error}`);
-                  pp = 'https://i.ibb.co/CscXKfD/Whats-App-Image-2023-07-18-at-13-00-16.jpg'; // Assign default image URL
-                  ppgp = 'https://i.ibb.co/CscXKfD/Whats-App-Image-2023-07-18-at-13-00-16.jpg'; // Assign default image URL
+                  pp = 'https://i.ibb.co/Ms4Qsvr/IMG-20230719-WA0090.jpg'; // Assign default image URL
+                  ppgp = 'https://i.ibb.co/Ms4Qsvr/IMG-20230719-WA0090.jpg'; // Assign default image URL
                 } finally {
                   let text = (chat.sWelcome || this.welcome || conn.welcome || 'Welcome, @user')
                     .replace('@group', await this.getName(id))
