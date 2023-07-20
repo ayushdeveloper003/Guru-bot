@@ -16,7 +16,7 @@ https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
 
 
 `.trim())
-handler.help = ['support']
+handler.help = ['maingc']
 handler.tags = ['main']
 handler.command = ['groups', 'ayushh', 'helpgroup', 'ayushgroup', 'officialgroup'] 
 
