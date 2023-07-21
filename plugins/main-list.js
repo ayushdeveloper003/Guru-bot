@@ -42,7 +42,9 @@ break;
    ⎪⌲👑 _${usedPrefix}maingroup_
    ⎪⌲👑 _${usedPrefix}blocklist_
    ⎪⌲👑 _${usedPrefix}listprem_
-   ⎪⌲👑    JESSICA MD
+   ⎪⌲👑 _${usedPrefix}bible_
+   ⎪⌲👑 _${usedPrefix}quran_
+   ⎪⌲👑    JESSICA
    ┗━━━ʕ•㉨•ʔ━━━┛`; // Your bot menu message here
           break;
         case 'ownermenu':
