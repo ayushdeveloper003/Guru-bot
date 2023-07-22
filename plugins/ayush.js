@@ -8,16 +8,11 @@ https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
 
 ─────────────
 ─────────────
-▢ *Owner Telegram*
- https://t.me/ayushdeveloper001
-
-▢ *YouTube*
-• https://www.youtube.com/@AyushAlways4Himself
 
 
 `.trim())
 handler.help = ['maingc']
 handler.tags = ['main']
-handler.command = ['groups', 'ayushh', 'helpgroup', 'ayushgroup', 'officialgroup'] 
+handler.command = ['groups', 'ayush', 'helpgroup', 'ayushgroup', 'officialgroup', 'maingc','ayushgroup','mainegroup'] 
 
 export default handler

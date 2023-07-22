@@ -815,7 +815,6 @@ export async function deleteUpdate(message) {
 TO DEACTIVE , PRESS 
 */off antidelete*
 *.enable delete*
-*made by Ayush*
 `.trim(), msg, {
             mentions: [participant]
         })

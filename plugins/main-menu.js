@@ -63,7 +63,7 @@ let str = `
 ┗━━━━━━━━━━━━━┛
 
 💡 *_Remember, when in doubt, use ${usedPrefix}list. It's like my magic spell book!_* 💡
-💡 *_For updates join our official group by typing ${usedPrefix}groups and get a chance to become a mod of the bot!_* 💡
+💡 *_For updates join our official group by typing ${usedPrefix}maingc and get a chance to become a mod of the bot!_* 💡
 `
 
 
@@ -73,7 +73,7 @@ let str = `
 }
 handler.help = ['main']
 handler.tags = ['group']
-handler.command = ['menu', 'help','ayush','command'] 
+handler.command = ['menu', 'help','h','command'] 
 
 export default handler
 function clockString(ms) {
