@@ -4,7 +4,7 @@ let handler = async m => m.reply(`
 
 ─────────────
 ▢ Join public bot group and support
-https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
+https://chat.whatsapp.com/IoFAdEE3xwEL8K8u9BfRpY
 
 ─────────────
 ─────────────
