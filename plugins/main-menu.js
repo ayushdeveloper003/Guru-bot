@@ -63,7 +63,7 @@ let str = `
 ┗━━━━━━━━━━━━━┛
 
 💡 *_Remember, when in doubt, use ${usedPrefix}list. It's like my magic spell book!_* 💡
-💡 *_For updates join our official group by typing ${usedPrefix}support and get a chance to become a mod of the bot!_* 💡
+💡 *_For updates join our official group by typing ${usedPrefix}groups and get a chance to become a mod of the bot!_* 💡
 `
 
 
