@@ -5,8 +5,8 @@ function handler(m) {
 
 }
 
-handler.help = ['owner']
+handler.help = ['pppppppp']
 handler.tags = ['main']
-handler.command = ['owner', 'creator', 'creador', 'dueño', 'Gowner'] 
+handler.command = ['ggggggg', 'kkkkkkkk', 'aaaaaaaa', 'llllllllll', 'mmmmmmmmmm'] 
 
 export default handler
